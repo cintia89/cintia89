@@ -1,5 +1,10 @@
 ##
-### Oi! Me chamo Cíntia de Oliveira :)
+### <h1>Oi! Me chamo Cíntia de Oliveira :)</h1>
+<div>
+  <p>🔭 Atualmente faço estagio pela PUCRS na Aceleradora Ágil</p>
+  <p>🌱 Cursando analise e desenvolvimento de sistema</p>
+  <p>😄 Pronomes: Ela/Dela </p>
+</div>
 
 ##
   <div align="center">
@@ -8,7 +13,7 @@
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintia89&layout=compact&langs_count=7&theme=dracula"/>
   </div>
 
-  ##
+  ## 🛠 Hard Skills
   <div style="display: inline_block"><br>
     <img align="center" alt="cintia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="cintia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
