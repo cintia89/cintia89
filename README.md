@@ -1,22 +1,22 @@
-<h1> Olá 👋 </h1>
+##
+### Oi! Me chamo Cíntia de Oliveira :)
 
-Sou a Cíntia uma mulher negra, mãe da Alicia, esposa do Anderson, estudante de Análise e Desenvolvimento de Sistema.
+##
+  <div align="center">
+    <a href="https://github.com/cintia89">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cintia89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintia89&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
 
+  ##
+  <div style="display: inline_block"><br>
+    <img align="center" alt="cintia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="cintia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="cintia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="cintia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="cintia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </div>
 
-<img width= 700px height= 300  src= "https://horizontes.sbc.org.br/wp-content/uploads/2020/07/1.png"/>
-
-<h3> Hard Skills</h3>
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
-<h3> contatos:</h3>
-
-<a href="https://www.linkedin.com/in/cintia-de-oliveira-dev/" rel="nofollow">  
-  
-<a href="mailto:cintia.silvadeooliveira@gmail.com">
-  <img src="https://img.shields.io/badge/cintia.silvadeooliveira@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;" style="max-width:100%;">
-</a>
-
-
+  ##
+  <a href = "mailto:cintia.silvadeooliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cintia-de-oliveira-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
